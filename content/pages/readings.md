@@ -25,7 +25,7 @@ Vasconcellos. "*Urban Transport, Environment and Equity: The Case for Developing
 
 **Class 1. Cities & Transportation in the Development Context**
 
-\*\*WBCSD (World mobility at the end of the twentieth century and its sustainability). 2001, pp. 1-5 – 1-7, 2-1 – 2-9, 4-1 – 4-10. [www.wbcsd.org](http://www.wbcsd.org/).
+\*\*WBCSD (World mobility at the end of the twentieth century and its sustainability). 2001, pp. 1-5 – 1-7, 2-1 – 2-9, 4-1 – 4-10. {{% resource_link "cd51354f-4062-4755-8dde-9ade3a197b60" "www.wbcsd.org" %}}.
 
 \*\*World Bank. A World Bank Urban Transport Strategy Review, 2001: 5-16, 25-29.
 
@@ -91,7 +91,7 @@ Vasconcellos. pp. 244-250, 264-278.
 
 Cervero, R. The Transit Metropolis. pp. 62-83, 1998.
 
-On-Line TDM Encyclopedia [http://www.vtpi.org/tdm/](http://www.vtpi.org/tdm/)   
+On-Line TDM Encyclopedia {{% resource_link "f6f608be-0a04-4654-9786-c46bacfcbda8" "http://www.vtpi.org/tdm/" %}}   
 Environment-Specific
 
 \*\*World Bank. A World Bank Urban Transport Strategy Review, pp. 47-54, 57-66, 2001.
@@ -123,9 +123,9 @@ Fulton, L. "Sustainable Transport: New Insights From The IEA's Worldwide Transit
 United States General Accounting Office. MASS TRANSIT: Bus Rapid Transit Shows Promise.
 
 Curitiba, and R. Cervero. *The Transit Metropolis*, Island Press, pp. 265-296.   
-[http://www.fta.dot.gov/assistance/technology/research_4234.html](https://islandpress.org/books/transit-metropolis)   
+{{% resource_link "88b4bd7c-169b-4986-a3bb-7ebabe1895ee" "http://www.fta.dot.gov/assistance/technology/research_4234.html" %}}   
 Plumbe, T. Curitiba: A Replicable Best Practice?   
-Curitiba web site: [http://www.curitiba.pr.gov.br/](http://www.curitiba.pr.gov.br/)
+Curitiba web site: {{% resource_link "fc3a3c5e-4a79-4273-8d71-e40adcc9f87e" "http://www.curitiba.pr.gov.br/" %}}
 
 Bogota, Ardila, and Menckhoff. Transportation Policies in Bogota: Building a Transportation System for the People. To be presented at TRB, 2001.
 
@@ -161,10 +161,10 @@ Hau, T. "Economic Fundamentals Of Road Pricing: A Diagrammatic Analysis." *World
 Zegras, C., and R. Gakenheimer. "Car Sharing Organizations In Latin America: Examining Prospects For Santiago." In *Working Paper for the Cooperative Mobility Program*.
 
 Orski, K. "Car Sharing Revisited." *Innovation Briefs*, Vol. 13, no. 1 (Jan/Feb 1999): 1-2.   
-[http://www.carsharing.net/](http://www.carsharing.net/)   
-[http://www.carsharing.org/](http://www.carsharing.org/)   
-[www.zipcar.com](http://www.zipcar.com/)   
-[www.mobility.ch](http://www.mobility.ch/)
+{{% resource_link "a7796cdf-a0e9-4179-933d-c3a58e665589" "http://www.carsharing.net/" %}}   
+{{% resource_link "6700afb6-d14a-4f0b-8445-64f1ebafb1a4" "http://www.carsharing.org/" %}}   
+{{% resource_link "67116e22-e02b-4f8b-bc88-817f33483e43" "www.zipcar.com" %}}   
+{{% resource_link "ab984426-ba99-4a29-8b17-e049b865c8fd" "www.mobility.ch" %}}
 
 Information and Communication Technologies – ITS and Telecommuting   
 Sussman, J. "Regional ITS Architecture Consistency: What Should It Mean?" In *ITS Quarterly*, Fall 1999.
