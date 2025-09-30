@@ -4,6 +4,8 @@ description: 'Readings: Regularities in Travel Demand'
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/a79172b84f114ddabb10561af7bdb69b_shafer_regularities.pdf
 file_size: 283330
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

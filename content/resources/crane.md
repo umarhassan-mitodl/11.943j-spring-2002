@@ -4,6 +4,8 @@ description: 'Readings: The Influence of Urban Form on Travel: An Interpretive V
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/4e66344978aa5aa0a763b94279d68090_crane.pdf
 file_size: 1320103
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

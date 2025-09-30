@@ -4,6 +4,8 @@ description: 'Lecture Notes: Urban Transportation, Land Use, and the Environment
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/d25ff90abd4528eeb5947e5530693445_Lecture6.pdf
 file_size: 4265544
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

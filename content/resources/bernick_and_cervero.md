@@ -4,6 +4,8 @@ description: 'Readings: The Built Environment and the demand for Transit'
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/2d3cfdff18052672bef2652b3a8cc847_bernick_and_cervero.pdf
 file_size: 6318862
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

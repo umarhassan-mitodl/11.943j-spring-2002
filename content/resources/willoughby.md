@@ -4,6 +4,8 @@ description: 'Readings: Managing Motorization'
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/3f159f4d0f466448ec75ece7cae0ac75_willoughby.pdf
 file_size: 571539
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
