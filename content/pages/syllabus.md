@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides a general description of the course and
   information on meeting times, the case study approach, requirements, the basis of
   evaluation, and the course web site and materials.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

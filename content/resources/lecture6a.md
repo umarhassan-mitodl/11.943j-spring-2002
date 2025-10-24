@@ -5,8 +5,6 @@ description: 'Urban Transportation, Land Use, and the Environment in Latin Ameri
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/8647308670b36d7ddea4311b19cc614b_Lecture6A.pdf
 file_size: 1344254
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

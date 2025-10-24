@@ -4,8 +4,6 @@ description: 'Assignments: Urban transportation and sustainability'
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/266b25863570aefd19885dea9d93819d_assignment2.pdf
 file_size: 9213
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

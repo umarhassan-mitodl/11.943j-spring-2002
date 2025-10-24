@@ -4,8 +4,6 @@ description: 'Readings: Urban mobility in the developing world'
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/5469118bb232fba79111f43afe6d99f6_gakenheimer.pdf
 file_size: 158400
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: 'Readings: Measuring Transportation Performance'
 file: /courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/7827dbcf30a24fbad5b5e623635494d3_ewing.pdf
 file_size: 3149161
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
